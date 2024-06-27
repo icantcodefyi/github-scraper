@@ -36,8 +36,8 @@ node index.js
 
 ## 📊 Output
 
-- `github_repos.csv`: A chart of repositories (Example)[https://github.com/icantcodefyi/github-scraper/blob/master/example-csv/github_repos.csv]
-- `github_contributors.csv`: A roster of contributors (Example)[https://github.com/icantcodefyi/github-scraper/blob/master/example-csv/github_contributors.csv]
+- `github_repos.csv`: A chart of repositories [Example](https://github.com/icantcodefyi/github-scraper/blob/master/example-csv/github_repos.csv)
+- `github_contributors.csv`: A roster of contributors [Example](https://github.com/icantcodefyi/github-scraper/blob/master/example-csv/github_contributors.csv)
 
 ## ⚠️ Cosmic Caution
 
